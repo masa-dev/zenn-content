@@ -6,17 +6,17 @@
 ## 記事作成
 
 ```
-$ zenn new:article
+$ npx zenn new:article
 ```
 
 ## 本の作成
 
 ```
-$ zenn new:book
+$ npx zenn new:book
 ```
 
 ## 表示をプレビュー
 
 ```
-$ zenn preview
+$ npx zenn preview
 ```
