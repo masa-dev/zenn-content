@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/masa-dev/zenn-content#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.79"
+    "zenn-cli": "^0.1.110"
   }
 }
